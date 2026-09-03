@@ -1,4 +1,4 @@
-## QW-8HZCIJ 👋
+## QW-8HZCIJ
 
 <!--
 **Madxgame/Madxgame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
